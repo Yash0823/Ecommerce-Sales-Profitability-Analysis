@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,brand,unit_cost,unit_price
+20001,Product_0001,Home & Kitchen,Decor,Prime,17068.41,20991.04
+20002,Product_0002,Home & Kitchen,Appliances,Nova,25466.96,28210.25
+20003,Product_0003,Electronics,Mobile,Orbit,29241.92,33341.56
+20004,Product_0004,Beauty,Makeup,Pulse,28721.59,34376.2
+20005,Product_0005,Sports,Fitness,Pulse,25711.46,31319.37
+20006,Product_0006,Sports,Team Sports,Zenith,526.23,727.22
+20007,Product_0007,Home & Kitchen,Decor,Prime,26594.67,32412.28
+20008,Product_0008,Electronics,Audio,Zenith,2436.86,3043.35
+20009,Product_0009,Beauty,Personal Care,Zenith,25565.58,30005.68
+20010,Product_0010,Fashion,Accessories,UrbanX,8549.19,9404.43
+20011,Product_0011,Home & Kitchen,Decor,UrbanX,18380.04,25176.98
+20012,Product_0012,Fashion,Footwear,Vertex,1334.43,1500.59
+20013,Product_0013,Sports,Outdoor,Pulse,23181.21,32205.07
+20014,Product_0014,Sports,Team Sports,Zenith,3528.84,4020.24
+20015,Product_0015,Beauty,Makeup,Vertex,12438.51,15939.5
+20016,Product_0016,Beauty,Haircare,Vertex,24559.89,34379.5
+20017,Product_0017,Fashion,Women Clothing,Nova,20921.4,23882.6
+20018,Product_0018,Sports,Sportswear,UrbanX,380.07,466.42
+20019,Product_0019,Beauty,Skincare,UrbanX,12210.36,16290.17
+20020,Product_0020,Beauty,Skincare,Prime,1449.44,1608.38
+20021,Product_0021,Sports,Sportswear,UrbanX,20270.3,26491.96
+20022,Product_0022,Sports,Team Sports,Prime,29074.67,32683.19
+20023,Product_0023,Electronics,Mobile,Zenith,19726.79,23099.2
+20024,Product_0024,Beauty,Makeup,Nova,6886.3,7905.63
+20025,Product_0025,Fashion,Women Clothing,Vertex,10785.94,14800.48
+20026,Product_0026,Home & Kitchen,Furniture,Vertex,29304.19,33821.05
+20027,Product_0027,Home & Kitchen,Decor,Zenith,6876.76,7647.85
+20028,Product_0028,Sports,Team Sports,Prime,16933.57,21612.11
+20029,Product_0029,Fashion,Accessories,Aster,12133.52,14606.99
+20030,Product_0030,Electronics,Mobile,Zenith,23095.8,28216.41
+20031,Product_0031,Beauty,Skincare,Prime,26048.2,29583.43
+20032,Product_0032,Electronics,Mobile,Zenith,10356.95,13717.47
+20033,Product_0033,Fashion,Footwear,Nova,19879.81,25455.42
+20034,Product_0034,Electronics,Accessories,Zenith,16561.62,20027.39
+20035,Product_0035,Sports,Sportswear,Zenith,8497.65,9784.81
+20036,Product_0036,Home & Kitchen,Cookware,UrbanX,8303.84,10612.6
+20037,Product_0037,Sports,Sportswear,Prime,16251.22,21672.29
+20038,Product_0038,Beauty,Haircare,,4789.29,5717.07
+20039,Product_0039,Sports,Outdoor,Orbit,24362.13,26987.35
+20040,Product_0040,Fashion,Women Clothing,Pulse,2256.34,2627.06
+20041,Product_0041,Fashion,Women Clothing,Vertex,3018.32,3938.06
+20042,Product_0042,Beauty,Personal Care,Aster,10398.34,14523.66
+20043,Product_0043,Beauty,Haircare,Aster,3719.13,4105.97
+20044,Product_0044,Home & Kitchen,Furniture,Prime,14375.86,17133.81
+20045,Product_0045,Electronics,Laptop,Zenith,12110.34,13546.7
+20046,Product_0046,Home & Kitchen,Furniture,UrbanX,21709.93,25941.3
+20047,Product_0047,Sports,Outdoor,Zenith,28599.52,34942.16
+20048,Product_0048,Electronics,Audio,Prime,22656.05,31180.58
+20049,Product_0049,Beauty,Makeup,Aster,5547.57,6236.4
+20050,Product_0050,Fashion,Women Clothing,Aster,28078.53,37432.62
+20051,Product_0051,Sports,Outdoor,Zenith,11885.58,14484.48
+20052,Product_0052,Home & Kitchen,Decor,Zenith,14330.84,19251.75
+20053,Product_0053,Beauty,Haircare,Zenith,12762.97,16005.03
+20054,Product_0054,Electronics,Mobile,Vertex,8560.3,9517.21
+20055,Product_0055,Electronics,Audio,UrbanX,26872.32,37187.58
+20056,Product_0056,Fashion,Women Clothing,UrbanX,10100.72,11361.49
+20057,Product_0057,Beauty,Makeup,Pulse,17442.17,22313.86
+20058,Product_0058,Beauty,Haircare,Pulse,7353.0,10024.35
+20059,Product_0059,Sports,Fitness,Orbit,23961.79,26931.4
+20060,Product_0060,Sports,Outdoor,Aster,23271.12,29465.15
+20061,Product_0061,Electronics,Audio,Aster,9030.1,12166.14
+20062,Product_0062,Home & Kitchen,Appliances,Prime,20510.31,28630.29
+20063,Product_0063,Electronics,Audio,Prime,21175.43,27894.36
+20064,Product_0064,Sports,Sportswear,Pulse,16962.84,20075.53
+20065,Product_0065,Sports,Team Sports,Vertex,18097.83,23705.82
+20066,Product_0066,Sports,Outdoor,Aster,17318.75,22717.52
+20067,Product_0067,Electronics,Mobile,Prime,2639.56,3457.8
+20068,Product_0068,Beauty,Skincare,Vertex,20173.91,27361.43
+20069,Product_0069,Home & Kitchen,Furniture,UrbanX,14199.3,15991.45
+20070,Product_0070,Home & Kitchen,Decor,Orbit,13266.03,15024.12
+20071,Product_0071,Sports,Outdoor,Aster,25827.98,33374.53
+20072,Product_0072,Fashion,Footwear,Nova,892.16,1236.68
+20073,Product_0073,Electronics,Accessories,Aster,7689.18,9532.67
+20074,Product_0074,Beauty,Haircare,Prime,3817.82,5299.78
+20075,Product_0075,Sports,Sportswear,Aster,1253.16,1731.15
+20076,Product_0076,Fashion,Men Clothing,Pulse,8415.17,11536.13
+20077,Product_0077,Sports,Outdoor,Nova,29656.59,40717.17
+20078,Product_0078,Fashion,Women Clothing,Pulse,8252.83,11302.21
+20079,Product_0079,Home & Kitchen,Cookware,Aster,19978.43,26890.3
+20080,Product_0080,Fashion,Accessories,Pulse,3725.31,4874.54
+20081,Product_0081,Home & Kitchen,Cookware,Prime,18135.06,20081.36
+20082,Product_0082,Home & Kitchen,Decor,UrbanX,29537.55,33663.24
+20083,Product_0083,Electronics,Laptop,Prime,8896.76,10144.71
+20084,Product_0084,Fashion,Accessories,Vertex,25472.65,28199.81
+20085,Product_0085,Beauty,Personal Care,Pulse,29927.63,33968.18
+20086,Product_0086,Beauty,Makeup,Prime,17738.91,24407.39
+20087,Product_0087,Fashion,Footwear,Vertex,9420.15,12238.11
+20088,Product_0088,Electronics,Audio,Aster,20271.23,24196.18
+20089,Product_0089,Beauty,Skincare,Vertex,25376.48,33953.93
+20090,Product_0090,Sports,Fitness,Pulse,5306.24,6614.29
+20091,Product_0091,Beauty,Makeup,Zenith,13684.97,15636.97
+20092,Product_0092,Electronics,Laptop,Aster,9711.79,13260.0
+20093,Product_0093,Home & Kitchen,Furniture,Vertex,8644.1,10386.74
+20094,Product_0094,Home & Kitchen,Furniture,Pulse,25852.47,33857.89
+20095,Product_0095,Home & Kitchen,Cookware,Pulse,12765.29,15154.67
+20096,Product_0096,Electronics,Accessories,Prime,10304.47,12880.81
+20097,Product_0097,Home & Kitchen,Cookware,Nova,18184.61,24456.04
+20098,Product_0098,Home & Kitchen,Appliances,Aster,6738.17,7728.9
+20099,Product_0099,Electronics,Accessories,Vertex,7050.83,9823.04
+20100,Product_0100,Sports,Outdoor,Nova,15704.6,17605.87
+20101,Product_0101,Beauty,Skincare,Pulse,12396.33,15621.89
+20102,Product_0102,Electronics,Mobile,Vertex,8990.48,12360.18
+20103,Product_0103,Electronics,Audio,Orbit,1807.74,2501.38
+20104,Product_0104,Fashion,Women Clothing,Vertex,15719.07,18385.54
+20105,Product_0105,Home & Kitchen,Cookware,Vertex,24534.95,28048.24
+20106,Product_0106,Sports,Fitness,Prime,25571.04,33685.27
+20107,Product_0107,Fashion,Accessories,Vertex,7216.11,8028.59
+20108,Product_0108,Sports,Fitness,Nova,18069.31,22506.62
+20109,Product_0109,Home & Kitchen,Decor,Zenith,25705.26,34416.94
+20110,Product_0110,Home & Kitchen,Cookware,Vertex,12380.03,15698.82
+20111,Product_0111,Home & Kitchen,Furniture,Zenith,27977.68,32353.5
+20112,Product_0112,Beauty,Makeup,UrbanX,27108.76,33780.59
+20113,Product_0113,Sports,Outdoor,Pulse,6402.39,8812.14
+20114,Product_0114,Sports,Team Sports,Aster,7917.15,10174.84
+20115,Product_0115,Fashion,Men Clothing,Prime,5577.17,7342.05
+20116,Product_0116,Electronics,Laptop,UrbanX,6042.42,7256.22
+20117,Product_0117,Home & Kitchen,Decor,UrbanX,27254.29,31520.82
+20118,Product_0118,Home & Kitchen,Appliances,Nova,27947.91,32886.1
+20119,Product_0119,Fashion,Footwear,Nova,1746.54,2200.56
+20120,Product_0120,Sports,Fitness,Orbit,17889.38,21182.21
+20121,Product_0121,Beauty,Makeup,Zenith,17014.1,21481.82
+20122,Product_0122,Sports,Team Sports,Zenith,11838.32,15535.87
+20123,Product_0123,Beauty,Makeup,Prime,19024.59,25118.52
+20124,Product_0124,Beauty,Skincare,Prime,28431.56,32679.39
+20125,Product_0125,Sports,Outdoor,Orbit,5273.6,6988.2
+20126,Product_0126,Home & Kitchen,Cookware,Aster,3788.25,4931.57
+20127,Product_0127,Beauty,Personal Care,Vertex,1195.04,1318.85
+20128,Product_0128,Fashion,Footwear,Prime,11042.23,12341.48
+20129,Product_0129,Fashion,Footwear,Prime,10261.33,13276.88
+20130,Product_0130,Beauty,Haircare,Zenith,13038.43,15843.14
+20131,Product_0131,Home & Kitchen,Appliances,Vertex,15198.64,17384.68
+20132,Product_0132,Beauty,Haircare,Aster,22783.16,25364.92
+20133,Product_0133,Fashion,Footwear,Pulse,11884.98,13641.81
+20134,Product_0134,Fashion,Footwear,Pulse,10052.27,13945.05
+20135,Product_0135,Sports,Fitness,Nova,24840.99,32747.12
+20136,Product_0136,Home & Kitchen,Cookware,Aster,25523.94,32117.07
+20137,Product_0137,Sports,Sportswear,Vertex,7136.43,9865.84
+20138,Product_0138,Electronics,Laptop,Nova,9577.22,12313.75
+20139,Product_0139,Beauty,Personal Care,Nova,24788.47,32663.61
+20140,Product_0140,Sports,Fitness,Orbit,2566.37,3040.62
+20141,Product_0141,Home & Kitchen,Furniture,Nova,9910.23,12652.34
+20142,Product_0142,Beauty,Skincare,Aster,13560.83,15500.61
+20143,Product_0143,Beauty,Haircare,Orbit,5774.73,7052.94
+20144,Product_0144,Beauty,Makeup,Zenith,5561.44,6173.04
+20145,Product_0145,Beauty,Personal Care,Vertex,12860.89,14982.79
+20146,Product_0146,Beauty,Personal Care,Aster,22684.75,25462.74
+20147,Product_0147,Home & Kitchen,Furniture,Aster,25238.94,30698.97
+20148,Product_0148,Electronics,Accessories,UrbanX,29381.21,39750.15
+20149,Product_0149,Fashion,Men Clothing,Prime,2404.72,2917.84
+20150,Product_0150,Electronics,Accessories,Pulse,6657.13,8983.74
+20151,Product_0151,Fashion,Women Clothing,Aster,22747.57,29502.45
+20152,Product_0152,Sports,Sportswear,UrbanX,16309.84,20433.93
+20153,Product_0153,Beauty,Personal Care,Pulse,9964.86,11669.52
+20154,Product_0154,Sports,Fitness,Zenith,6326.57,8709.45
+20155,Product_0155,Sports,Team Sports,Orbit,8558.23,9553.21
+20156,Product_0156,Fashion,Men Clothing,Zenith,12992.81,16977.37
+20157,Product_0157,Home & Kitchen,Decor,Vertex,5479.11,7048.17
+20158,Product_0158,Beauty,Personal Care,UrbanX,28933.93,35655.64
+20159,Product_0159,Sports,Team Sports,Orbit,3406.14,3992.32
+20160,Product_0160,Electronics,Audio,Aster,29570.21,36347.96
+20161,Product_0161,Beauty,Skincare,Orbit,25288.42,34438.57
+20162,Product_0162,Home & Kitchen,Appliances,Vertex,12809.92,17306.58
+20163,Product_0163,Beauty,Skincare,UrbanX,22246.53,30753.92
+20164,Product_0164,Sports,Outdoor,Aster,20211.15,24098.52
+20165,Product_0165,Electronics,Accessories,Vertex,6555.95,7972.9
+20166,Product_0166,Sports,Team Sports,Pulse,10304.29,11392.61
+20167,Product_0167,Home & Kitchen,Furniture,Vertex,15491.05,21422.34
+20168,Product_0168,Fashion,Women Clothing,Pulse,19207.76,23026.59
+20169,Product_0169,Electronics,Mobile,Prime,16378.27,20001.95
+20170,Product_0170,Home & Kitchen,Cookware,Zenith,14295.03,19617.66
+20171,Product_0171,Home & Kitchen,Appliances,Orbit,13405.94,16864.4
+20172,Product_0172,Sports,Fitness,Orbit,15048.28,19109.09
+20173,Product_0173,Sports,Outdoor,Pulse,13143.68,15152.95
+20174,Product_0174,Sports,Outdoor,Aster,16331.64,20407.98
+20175,Product_0175,Fashion,Accessories,Prime,26661.96,36672.53
+20176,Product_0176,Beauty,Haircare,Vertex,19058.31,24158.61
+20177,Product_0177,Beauty,Makeup,Vertex,21734.1,25570.93
+20178,Product_0178,Sports,Sportswear,UrbanX,18005.0,19973.92
+20179,Product_0179,Sports,Fitness,Prime,19361.93,23251.56
+20180,Product_0180,Fashion,Accessories,Nova,17434.82,22173.21
+20181,Product_0181,Beauty,Haircare,Aster,1000.62,1113.47
+20182,Product_0182,Fashion,Footwear,Zenith,29988.03,38472.78
+20183,Product_0183,Home & Kitchen,Cookware,Pulse,1201.56,1510.39
+20184,Product_0184,Beauty,Skincare,Prime,11975.41,15987.54
+20185,Product_0185,Sports,Outdoor,Vertex,3332.45,3694.58
+20186,Product_0186,Electronics,Audio,UrbanX,3088.47,4120.8
+20187,Product_0187,Home & Kitchen,Furniture,Aster,23847.1,29958.23
+20188,Product_0188,Electronics,Laptop,Zenith,12892.59,15614.97
+20189,Product_0189,Fashion,Footwear,Pulse,24073.93,33453.49
+20190,Product_0190,Fashion,Women Clothing,Aster,8329.04,9562.04
+20191,Product_0191,Fashion,Footwear,UrbanX,7842.59,9900.47
+20192,Product_0192,Sports,Team Sports,Vertex,7686.7,9195.56
+20193,Product_0193,Fashion,Women Clothing,Orbit,18561.14,23354.48
+20194,Product_0194,Electronics,Laptop,Pulse,24486.98,30992.75
+20195,Product_0195,Home & Kitchen,Decor,Orbit,13677.38,15412.14
+20196,Product_0196,Sports,Fitness,Zenith,11501.62,14933.02
+20197,Product_0197,Home & Kitchen,Cookware,Nova,29212.67,37694.41
+20198,Product_0198,Fashion,Footwear,UrbanX,3679.27,4896.52
+20199,Product_0199,Beauty,Personal Care,Nova,14701.65,16571.66
+20200,Product_0200,Sports,Team Sports,Prime,12372.94,14713.62
+20201,Product_0201,Fashion,Accessories,Orbit,3124.17,4045.9
+20202,Product_0202,Sports,Team Sports,Aster,8192.37,9347.65
+20203,Product_0203,Beauty,Skincare,Zenith,1047.55,1365.25
+20204,Product_0204,Electronics,Accessories,Orbit,26333.24,29432.87
+20205,Product_0205,Electronics,Laptop,Vertex,18313.92,21985.48
+20206,Product_0206,Electronics,Laptop,Nova,24487.55,33156.47
+20207,Product_0207,Beauty,Skincare,Vertex,15742.32,20973.29
+20208,Product_0208,Home & Kitchen,Decor,Prime,18065.39,23366.29
+20209,Product_0209,Beauty,Haircare,Nova,21085.46,28700.21
+20210,Product_0210,Beauty,Haircare,Vertex,27258.75,35784.77
+20211,Product_0211,Fashion,Women Clothing,Vertex,2934.21,3684.82
+20212,Product_0212,Electronics,Mobile,Pulse,10062.26,14025.94
+20213,Product_0213,Sports,Team Sports,Prime,21328.98,27908.05
+20214,Product_0214,Home & Kitchen,Furniture,UrbanX,28758.85,36823.12
+20215,Product_0215,Sports,Outdoor,Zenith,29428.06,35980.55
+20216,Product_0216,Fashion,Footwear,Prime,19215.47,26339.1
+20217,Product_0217,Fashion,Women Clothing,Nova,5969.23,7095.7
+20218,Product_0218,Home & Kitchen,Decor,Nova,3752.43,4138.05
+20219,Product_0219,Sports,Outdoor,Aster,28392.1,32907.07
+20220,Product_0220,Home & Kitchen,Appliances,Vertex,13131.05,14875.58
+20221,Product_0221,Home & Kitchen,Cookware,Zenith,6005.52,7180.79
+20222,Product_0222,Electronics,Mobile,Nova,28030.0,37777.81
+20223,Product_0223,Sports,Sportswear,UrbanX,3314.82,4294.21
+20224,Product_0224,Electronics,Laptop,UrbanX,21941.22,25247.63
+20225,Product_0225,Electronics,Laptop,Prime,18832.84,25172.85
+20226,Product_0226,Electronics,Audio,Orbit,2814.49,3521.68
+20227,Product_0227,Beauty,Makeup,Nova,10294.71,12907.66
+20228,Product_0228,Fashion,Accessories,Zenith,4667.93,5641.82
+20229,Product_0229,Fashion,Accessories,Zenith,18214.06,24759.92
+20230,Product_0230,Beauty,Haircare,Orbit,14417.97,17236.66
+20231,Product_0231,Home & Kitchen,Furniture,Nova,327.4,369.39
+20232,Product_0232,Sports,Sportswear,Orbit,29276.17,34862.61
+20233,Product_0233,Sports,Fitness,Pulse,10617.62,13957.99
+20234,Product_0234,Sports,Fitness,Aster,7894.49,10241.32
+20235,Product_0235,Electronics,Mobile,Aster,6828.8,7896.86
+20236,Product_0236,Sports,Fitness,Aster,4932.71,5591.4
+20237,Product_0237,Sports,Sportswear,Pulse,29974.28,38914.4
+20238,Product_0238,Sports,Team Sports,Nova,8994.26,11718.74
+20239,Product_0239,Fashion,Men Clothing,Prime,12284.3,14862.1
+20240,Product_0240,Beauty,Personal Care,Pulse,26166.41,35398.98
+20241,Product_0241,Home & Kitchen,Cookware,Zenith,19328.25,26933.17
+20242,Product_0242,Beauty,Haircare,Prime,11187.09,12995.97
+20243,Product_0243,Sports,Fitness,Orbit,26970.19,34336.3
+20244,Product_0244,Home & Kitchen,Decor,Prime,22541.78,24832.11
+20245,Product_0245,Home & Kitchen,Furniture,Pulse,6991.44,9186.17
+20246,Product_0246,Beauty,Haircare,Prime,19383.42,23730.82
+20247,Product_0247,Beauty,Skincare,UrbanX,27687.48,32061.57
+20248,Product_0248,Beauty,Skincare,Nova,14994.53,19877.75
+20249,Product_0249,Beauty,Haircare,Vertex,22061.65,29633.09
+20250,Product_0250,Electronics,Audio,Nova,29138.89,33024.56
+20251,Product_0251,Fashion,Accessories,Prime,20774.34,23107.27
+20252,Product_0252,Fashion,Accessories,UrbanX,3252.67,3903.93
+20253,Product_0253,Sports,Sportswear,UrbanX,7487.87,9642.86
+20254,Product_0254,Electronics,Accessories,Nova,17933.87,23995.98
+20255,Product_0255,Home & Kitchen,Decor,Orbit,8411.56,10630.69
+20256,Product_0256,Beauty,Haircare,Vertex,28734.74,36614.51
+20257,Product_0257,Sports,Sportswear,Pulse,12279.49,16453.99
+20258,Product_0258,Home & Kitchen,Appliances,Pulse,13825.47,17401.47
+20259,Product_0259,Fashion,Footwear,Prime,21107.74,27088.54
+20260,Product_0260,Home & Kitchen,Cookware,UrbanX,15822.64,19855.28
+20261,Product_0261,Beauty,Skincare,Prime,11587.95,15807.56
+20262,Product_0262,Beauty,Skincare,Prime,2483.81,2907.68
+20263,Product_0263,Fashion,Men Clothing,Zenith,17974.08,21195.0
+20264,Product_0264,Beauty,Haircare,Prime,26053.88,29659.44
+20265,Product_0265,Electronics,Audio,Aster,20635.72,27772.38
+20266,Product_0266,Sports,Outdoor,Zenith,11568.55,14154.5
+20267,Product_0267,Fashion,Footwear,Prime,4006.24,4824.99
+20268,Product_0268,Fashion,Women Clothing,Prime,24526.88,34200.39
+20269,Product_0269,Home & Kitchen,Appliances,Vertex,28264.1,38949.09
+20270,Product_0270,Fashion,Men Clothing,Pulse,11770.54,16379.84
+20271,Product_0271,Sports,Team Sports,Zenith,21913.54,25040.38
+20272,Product_0272,Electronics,Mobile,Pulse,12440.75,17011.18
+20273,Product_0273,Home & Kitchen,Appliances,,15167.55,18180.02
+20274,Product_0274,Sports,Outdoor,Vertex,25127.0,27735.11
+20275,Product_0275,Fashion,Accessories,Aster,2686.05,3269.97
+20276,Product_0276,Beauty,Makeup,Zenith,16003.99,20049.14
+20277,Product_0277,Beauty,Haircare,Aster,6595.68,7469.38
+20278,Product_0278,Sports,Sportswear,Prime,10326.22,13024.5
+20279,Product_0279,Electronics,Laptop,UrbanX,19403.98,26114.63
+20280,Product_0280,Beauty,Personal Care,UrbanX,1011.41,1227.14
+20281,Product_0281,Sports,Fitness,Nova,17895.99,21578.87
+20282,Product_0282,Home & Kitchen,Appliances,UrbanX,8646.58,10390.1
+20283,Product_0283,Fashion,Women Clothing,UrbanX,20150.63,27745.97
+20284,Product_0284,Electronics,Audio,Vertex,4419.12,4925.67
+20285,Product_0285,Electronics,Mobile,Nova,22127.19,27294.39
+20286,Product_0286,Home & Kitchen,Cookware,Pulse,19440.06,22927.21
+20287,Product_0287,Electronics,Audio,,29143.01,39871.78
+20288,Product_0288,Sports,Outdoor,Nova,27354.81,30878.54
+20289,Product_0289,Electronics,Laptop,Vertex,8642.43,10573.43
+20290,Product_0290,Electronics,Laptop,Orbit,1014.03,1239.19
+20291,Product_0291,Electronics,Audio,UrbanX,19729.98,26961.38
+20292,Product_0292,Sports,Outdoor,UrbanX,18166.04,21157.04
+20293,Product_0293,Fashion,Women Clothing,Nova,1017.38,1315.95
+20294,Product_0294,Beauty,Personal Care,UrbanX,3855.79,4396.84
+20295,Product_0295,Electronics,Laptop,Nova,17624.11,24430.41
+20296,Product_0296,Home & Kitchen,Cookware,,27372.45,34979.38
+20297,Product_0297,Home & Kitchen,Furniture,Prime,27213.71,35047.91
+20298,Product_0298,Sports,Team Sports,Vertex,4714.25,5799.15
+20299,Product_0299,Fashion,Footwear,Orbit,11660.3,14023.67
+20300,Product_0300,Electronics,Laptop,Zenith,1487.45,1731.1
+20301,Product_0301,Sports,Team Sports,Aster,14184.3,18172.87
+20302,Product_0302,Beauty,Makeup,Pulse,22641.89,31390.0
+20303,Product_0303,Fashion,Women Clothing,Prime,23741.19,28677.87
+20304,Product_0304,Fashion,Accessories,UrbanX,15069.89,20569.6
+20305,Product_0305,Sports,Sportswear,Aster,3056.92,3499.05
+20306,Product_0306,Home & Kitchen,Decor,Zenith,11564.65,15968.91
+20307,Product_0307,Fashion,Accessories,Prime,27976.64,33715.93
+20308,Product_0308,Home & Kitchen,Cookware,Zenith,7042.45,8548.96
+20309,Product_0309,Fashion,Women Clothing,Vertex,9728.68,12052.4
+20310,Product_0310,Fashion,Footwear,Aster,22455.45,29539.54
+20311,Product_0311,Fashion,Footwear,Zenith,22060.71,29029.6
+20312,Product_0312,Beauty,Haircare,Aster,27383.63,34061.86
+20313,Product_0313,Home & Kitchen,Appliances,Vertex,11765.94,14789.15
+20314,Product_0314,Beauty,Skincare,Zenith,15535.04,17228.41
+20315,Product_0315,Home & Kitchen,Decor,Prime,14128.3,16830.89
+20316,Product_0316,Beauty,Haircare,Aster,27847.01,33522.37
+20317,Product_0317,Beauty,Makeup,Pulse,23126.05,29315.0
+20318,Product_0318,Beauty,Skincare,Pulse,24976.97,31658.06
+20319,Product_0319,Sports,Team Sports,Pulse,4166.33,5470.27
+20320,Product_0320,Beauty,Skincare,Orbit,23797.03,31295.67
+20321,Product_0321,Fashion,Footwear,Orbit,13102.77,15337.62
+20322,Product_0322,Electronics,Accessories,Zenith,895.49,1191.95
+20323,Product_0323,Beauty,Haircare,Vertex,1990.63,2201.4
+20324,Product_0324,Electronics,Accessories,Pulse,20401.66,26825.09
+20325,Product_0325,Electronics,Accessories,Zenith,11285.97,12760.12
+20326,Product_0326,Fashion,Footwear,Zenith,26069.84,34383.37
+20327,Product_0327,Electronics,Accessories,Prime,22081.34,27781.32
+20328,Product_0328,Electronics,Laptop,UrbanX,846.06,1041.65
+20329,Product_0329,Electronics,Mobile,Nova,20669.27,27018.87
+20330,Product_0330,Home & Kitchen,Cookware,UrbanX,5932.1,6590.04
+20331,Product_0331,Beauty,Makeup,Orbit,12792.96,14929.91
+20332,Product_0332,Beauty,Haircare,UrbanX,18817.11,24178.71
+20333,Product_0333,Electronics,Laptop,Nova,26206.99,35488.58
+20334,Product_0334,Fashion,Men Clothing,Zenith,13791.72,16747.73
+20335,Product_0335,Home & Kitchen,Cookware,UrbanX,24293.02,28608.15
+20336,Product_0336,Fashion,Accessories,Orbit,23532.38,29547.75
+20337,Product_0337,Fashion,Footwear,Orbit,12553.25,16152.2
+20338,Product_0338,Electronics,Mobile,UrbanX,15129.21,18548.88
+20339,Product_0339,Sports,Fitness,Vertex,21074.45,28724.75
+20340,Product_0340,Electronics,Laptop,Vertex,1128.22,1418.21
+20341,Product_0341,Sports,Outdoor,Prime,26746.18,29708.24
+20342,Product_0342,Home & Kitchen,Furniture,Orbit,23140.52,27003.05
+20343,Product_0343,Sports,Fitness,Aster,7632.59,9427.73
+20344,Product_0344,Electronics,Audio,Zenith,29439.16,38545.21
+20345,Product_0345,Electronics,Accessories,Pulse,5545.83,6466.03
+20346,Product_0346,Fashion,Footwear,Orbit,27439.78,38220.24
+20347,Product_0347,Electronics,Mobile,Prime,9869.31,11799.43
+20348,Product_0348,Electronics,Accessories,Orbit,22941.77,28900.76
+20349,Product_0349,Beauty,Makeup,Orbit,13800.02,15258.54
+20350,Product_0350,Beauty,Skincare,Vertex,22146.73,30240.63
+20351,Product_0351,Fashion,Footwear,Orbit,4842.33,6472.5
+20352,Product_0352,Sports,Fitness,Vertex,8231.29,9537.08
+20353,Product_0353,Sports,Outdoor,Nova,3175.76,4382.46
+20354,Product_0354,Beauty,Makeup,Nova,25981.29,31041.2
+20355,Product_0355,Home & Kitchen,Furniture,Pulse,9029.53,11807.52
+20356,Product_0356,Beauty,Haircare,Orbit,20895.39,28118.78
+20357,Product_0357,Home & Kitchen,Decor,Pulse,24642.59,32584.26
+20358,Product_0358,Sports,Sportswear,Vertex,27062.26,37218.05
+20359,Product_0359,Beauty,Makeup,UrbanX,3367.65,4577.59
+20360,Product_0360,Electronics,Mobile,Pulse,26811.85,37493.25
+20361,Product_0361,Home & Kitchen,Decor,Prime,6078.13,7018.92
+20362,Product_0362,Home & Kitchen,Decor,Vertex,22159.68,26401.68
+20363,Product_0363,Home & Kitchen,Furniture,Zenith,21919.7,28295.43
+20364,Product_0364,Sports,Outdoor,Orbit,453.39,598.44
+20365,Product_0365,Fashion,Men Clothing,Vertex,6774.59,8538.57
+20366,Product_0366,Electronics,Accessories,Nova,14858.87,16674.3
+20367,Product_0367,Beauty,Personal Care,Prime,12717.03,17199.51
+20368,Product_0368,Home & Kitchen,Cookware,Orbit,27573.49,38279.24
+20369,Product_0369,Sports,Sportswear,Prime,10920.28,13340.82
+20370,Product_0370,Home & Kitchen,Appliances,Aster,28122.11,32830.98
+20371,Product_0371,Beauty,Makeup,Vertex,13890.99,15360.58
+20372,Product_0372,Electronics,Mobile,Aster,28937.72,33891.56
+20373,Product_0373,Home & Kitchen,Furniture,Nova,22173.17,29046.31
+20374,Product_0374,Sports,Fitness,Aster,24914.17,34219.03
+20375,Product_0375,Sports,Team Sports,UrbanX,3325.33,3751.15
+20376,Product_0376,Fashion,Accessories,Vertex,17667.01,22366.04
+20377,Product_0377,Sports,Sportswear,Vertex,4452.47,5826.77
+20378,Product_0378,Fashion,Women Clothing,Prime,9069.11,10727.98
+20379,Product_0379,Electronics,Laptop,Orbit,18782.25,23871.66
+20380,Product_0380,Beauty,Makeup,Pulse,21841.53,28712.32
+20381,Product_0381,Fashion,Women Clothing,Aster,1367.68,1848.17
+20382,Product_0382,Home & Kitchen,Cookware,Prime,16022.12,19799.33
+20383,Product_0383,Home & Kitchen,Appliances,Zenith,17046.36,22575.47
+20384,Product_0384,Beauty,Personal Care,Orbit,2549.07,3034.76
+20385,Product_0385,Sports,Sportswear,Aster,15120.5,17598.96
+20386,Product_0386,Home & Kitchen,Decor,Pulse,21472.5,24826.38
+20387,Product_0387,Fashion,Women Clothing,Aster,1786.17,2157.09
+20388,Product_0388,Beauty,Makeup,Orbit,22855.98,25387.6
+20389,Product_0389,Home & Kitchen,Furniture,Pulse,17377.51,20590.57
+20390,Product_0390,Sports,Fitness,Pulse,25030.17,32430.76
+20391,Product_0391,Sports,Team Sports,Nova,6698.26,8670.07
+20392,Product_0392,Home & Kitchen,Furniture,Orbit,25031.56,28087.07
+20393,Product_0393,Beauty,Personal Care,Aster,3017.92,3579.93
+20394,Product_0394,Electronics,Accessories,Prime,12234.12,15547.94
+20395,Product_0395,Home & Kitchen,Cookware,Orbit,6144.65,7346.33
+20396,Product_0396,Sports,Fitness,Zenith,26305.42,32234.57
+20397,Product_0397,Electronics,Mobile,Pulse,21206.61,27862.16
+20398,Product_0398,Beauty,Personal Care,Orbit,955.78,1054.02
+20399,Product_0399,Sports,Outdoor,Aster,483.8,572.3
+20400,Product_0400,Beauty,Personal Care,Aster,8879.23,10146.4
+20401,Product_0401,Home & Kitchen,Decor,Vertex,4469.84,5087.94
+20402,Product_0402,Beauty,Personal Care,Vertex,18983.07,26343.04
+20403,Product_0403,Sports,Outdoor,Zenith,19981.15,24236.5
+20404,Product_0404,Home & Kitchen,Decor,Pulse,28270.14,35567.41
+20405,Product_0405,Sports,Fitness,Vertex,28570.79,37717.63
+20406,Product_0406,Sports,Fitness,UrbanX,19835.12,22100.97
+20407,Product_0407,Electronics,Mobile,Vertex,369.12,432.72
+20408,Product_0408,Fashion,Men Clothing,UrbanX,10898.14,14708.61
+20409,Product_0409,Beauty,Personal Care,Orbit,15491.62,21046.87
+20410,Product_0410,Beauty,Personal Care,Zenith,15075.56,18269.85
+20411,Product_0411,Electronics,Accessories,UrbanX,18179.55,22041.95
+20412,Product_0412,Beauty,Skincare,Orbit,28824.43,38252.01
+20413,Product_0413,Electronics,Laptop,Zenith,26578.74,31589.39
+20414,Product_0414,Beauty,Makeup,Prime,3445.46,3911.04
+20415,Product_0415,Beauty,Makeup,Vertex,8126.22,9566.68
+20416,Product_0416,Sports,Team Sports,Aster,25026.66,30437.51
+20417,Product_0417,Electronics,Laptop,Pulse,24764.35,27628.63
+20418,Product_0418,Beauty,Personal Care,Nova,8406.05,10453.8
+20419,Product_0419,Fashion,Footwear,Pulse,21971.52,29046.4
+20420,Product_0420,Electronics,Audio,Aster,20226.71,25366.79
+20421,Product_0421,Electronics,Accessories,Vertex,14311.01,16050.78
+20422,Product_0422,Electronics,Audio,Aster,6203.36,7642.82
+20423,Product_0423,Sports,Sportswear,Vertex,26681.57,35024.13
+20424,Product_0424,Electronics,Audio,Pulse,20399.97,22795.52
+20425,Product_0425,Sports,Sportswear,Vertex,5235.99,5853.6
+20426,Product_0426,Fashion,Men Clothing,Aster,21203.11,25680.79
+20427,Product_0427,Home & Kitchen,Furniture,Orbit,22294.72,25828.19
+20428,Product_0428,Sports,Team Sports,UrbanX,26629.03,36759.62
+20429,Product_0429,Beauty,Personal Care,Prime,6840.61,8717.69
+20430,Product_0430,Electronics,Mobile,Prime,29664.87,35188.4
+20431,Product_0431,Home & Kitchen,Decor,Prime,4771.12,6257.0
+20432,Product_0432,Sports,Team Sports,Prime,18100.53,21946.51
+20433,Product_0433,Beauty,Makeup,Orbit,19783.86,22546.37
+20434,Product_0434,Home & Kitchen,Appliances,Nova,12684.8,14856.05
+20435,Product_0435,Fashion,Footwear,Zenith,14356.12,18559.94
+20436,Product_0436,Sports,Team Sports,Vertex,26749.12,29840.32
+20437,Product_0437,Sports,Fitness,Orbit,19429.17,22961.52
+20438,Product_0438,Fashion,Accessories,Nova,15010.63,17449.76
+20439,Product_0439,Sports,Sportswear,Prime,4024.82,4670.16
+20440,Product_0440,Electronics,Audio,Prime,418.66,546.28
+20441,Product_0441,Sports,Sportswear,Pulse,3924.06,5288.63
+20442,Product_0442,Electronics,Mobile,Aster,28694.3,37726.12
+20443,Product_0443,Sports,Team Sports,Prime,22969.79,29716.44
+20444,Product_0444,Beauty,Haircare,Vertex,29020.07,39900.73
+20445,Product_0445,Beauty,Skincare,Pulse,1264.12,1412.68
+20446,Product_0446,Home & Kitchen,Appliances,Prime,20470.57,23546.17
+20447,Product_0447,Beauty,Personal Care,Prime,1519.95,1860.91
+20448,Product_0448,Fashion,Men Clothing,Orbit,23505.28,28482.18
+20449,Product_0449,Home & Kitchen,Appliances,Nova,11552.32,14156.39
+20450,Product_0450,Beauty,Personal Care,Orbit,3053.81,3548.33
+20451,Product_0451,Electronics,Accessories,Vertex,17127.79,19608.77
+20452,Product_0452,Sports,Team Sports,UrbanX,8547.58,10708.05
+20453,Product_0453,Beauty,Skincare,Aster,19855.3,27368.86
+20454,Product_0454,Electronics,Audio,UrbanX,19813.61,24124.87
+20455,Product_0455,Home & Kitchen,Appliances,Zenith,21209.22,23605.99
+20456,Product_0456,Sports,Team Sports,Orbit,29775.46,39060.94
+20457,Product_0457,Beauty,Makeup,Nova,11723.59,13919.79
+20458,Product_0458,Home & Kitchen,Appliances,Prime,14066.4,16507.32
+20459,Product_0459,Beauty,Personal Care,Aster,24177.43,28947.09
+20460,Product_0460,Home & Kitchen,Appliances,Orbit,17435.43,22964.98
+20461,Product_0461,Beauty,Skincare,Zenith,1310.26,1763.15
+20462,Product_0462,Electronics,Laptop,Zenith,25323.74,32323.65
+20463,Product_0463,Fashion,Footwear,Orbit,1734.66,2075.94
+20464,Product_0464,Electronics,Mobile,Vertex,5290.44,6312.25
+20465,Product_0465,Sports,Outdoor,Orbit,3241.98,3687.08
+20466,Product_0466,Beauty,Skincare,Aster,2522.23,3480.65
+20467,Product_0467,Fashion,Accessories,Zenith,965.41,1246.77
+20468,Product_0468,Fashion,Accessories,Nova,1839.83,2038.7
+20469,Product_0469,Sports,Outdoor,Prime,13384.69,17382.83
+20470,Product_0470,Sports,Outdoor,Nova,7735.0,9546.12
+20471,Product_0471,Fashion,Women Clothing,Pulse,3970.8,5526.43
+20472,Product_0472,Sports,Sportswear,Orbit,19829.43,26684.87
+20473,Product_0473,Sports,Sportswear,Zenith,6938.13,7988.53
+20474,Product_0474,Beauty,Skincare,Vertex,764.68,1006.34
+20475,Product_0475,Electronics,Accessories,UrbanX,12668.91,15781.28
+20476,Product_0476,Home & Kitchen,Furniture,Prime,9450.9,10926.31
+20477,Product_0477,Fashion,Footwear,Prime,9694.41,12696.01
+20478,Product_0478,Home & Kitchen,Appliances,Orbit,13469.05,17027.79
+20479,Product_0479,Fashion,Women Clothing,Orbit,20133.64,22330.47
+20480,Product_0480,Fashion,Accessories,Nova,18571.08,24030.54
+20481,Product_0481,Electronics,Laptop,Orbit,28130.4,36302.17
+20482,Product_0482,Fashion,Accessories,Nova,15627.96,17866.28
+20483,Product_0483,Fashion,Footwear,Nova,14282.58,17206.17
+20484,Product_0484,Electronics,Mobile,Zenith,6559.75,8368.73
+20485,Product_0485,Sports,Sportswear,Prime,22710.36,25926.94
+20486,Product_0486,Home & Kitchen,Cookware,Nova,4395.12,5958.98
+20487,Product_0487,Fashion,Footwear,Orbit,14835.76,16441.67
+20488,Product_0488,Electronics,Mobile,Pulse,12755.4,14424.46
+20489,Product_0489,Fashion,Men Clothing,Aster,19817.37,22489.39
+20490,Product_0490,Electronics,Laptop,Zenith,27545.12,34663.66
+20491,Product_0491,Home & Kitchen,Cookware,Orbit,28408.55,36534.37
+20492,Product_0492,Beauty,Makeup,Zenith,5200.42,6350.35
+20493,Product_0493,Sports,Sportswear,Aster,8002.15,9495.35
+20494,Product_0494,Beauty,Skincare,Aster,24386.73,32746.38
+20495,Product_0495,Electronics,Accessories,Zenith,15644.74,17529.71
+20496,Product_0496,Fashion,Women Clothing,Prime,13700.43,16222.51
+20497,Product_0497,Sports,Team Sports,Nova,21376.64,23765.15
+20498,Product_0498,Home & Kitchen,Appliances,Pulse,18137.36,20026.68
+20499,Product_0499,Sports,Sportswear,Vertex,29127.28,35127.91
+20500,Product_0500,Fashion,Footwear,Nova,17602.44,20391.5
+20501,Product_0501,Beauty,Haircare,Prime,14086.02,16628.68
+20502,Product_0502,Electronics,Accessories,Aster,16375.96,22046.7
+20503,Product_0503,Beauty,Makeup,Prime,24294.49,27911.79
+20504,Product_0504,Sports,Outdoor,Orbit,18457.72,24623.89
+20505,Product_0505,Fashion,Women Clothing,Nova,19482.03,25375.64
+20506,Product_0506,Electronics,Mobile,Pulse,29148.88,34918.42
+20507,Product_0507,Fashion,Footwear,Prime,18628.19,23545.41
+20508,Product_0508,Fashion,Accessories,Vertex,11532.5,14223.39
+20509,Product_0509,Sports,Fitness,Prime,20801.52,23682.92
+20510,Product_0510,Beauty,Personal Care,Orbit,19851.89,27239.88
+20511,Product_0511,Fashion,Men Clothing,UrbanX,612.66,778.62
+20512,Product_0512,Fashion,Women Clothing,Prime,14126.41,19269.44
+20513,Product_0513,Fashion,Men Clothing,Nova,22338.53,30093.3
+20514,Product_0514,Electronics,Mobile,UrbanX,15071.44,16939.29
+20515,Product_0515,Fashion,Men Clothing,Orbit,23432.71,27233.06
+20516,Product_0516,Fashion,Footwear,Aster,13636.33,15594.21
+20517,Product_0517,Sports,Fitness,Nova,29502.98,39806.42
+20518,Product_0518,Fashion,Women Clothing,Orbit,8928.17,12131.01
+20519,Product_0519,Fashion,Accessories,Zenith,2945.25,3706.28
+20520,Product_0520,Sports,Team Sports,Vertex,13014.35,14722.53
+20521,Product_0521,Electronics,Laptop,Prime,16342.93,18642.13
+20522,Product_0522,Beauty,Makeup,Prime,10602.99,14251.1
+20523,Product_0523,Sports,Sportswear,Nova,7419.98,10230.35
+20524,Product_0524,Electronics,Accessories,Prime,20227.35,23460.54
+20525,Product_0525,Beauty,Personal Care,Prime,11438.33,12620.38
+20526,Product_0526,Fashion,Footwear,Aster,19014.78,22804.16
+20527,Product_0527,Sports,Team Sports,Orbit,23416.33,25972.22
+20528,Product_0528,Fashion,Accessories,Prime,22877.88,30848.36
+20529,Product_0529,Sports,Sportswear,Prime,11384.22,14201.29
+20530,Product_0530,Beauty,Haircare,Aster,17123.37,22132.95
+20531,Product_0531,Electronics,Accessories,Orbit,13599.82,16638.64
+20532,Product_0532,Sports,Fitness,Zenith,26150.0,31475.51
+20533,Product_0533,Electronics,Audio,Prime,26387.0,30784.66
+20534,Product_0534,Fashion,Women Clothing,Zenith,10443.5,13901.97
+20535,Product_0535,Fashion,Footwear,Orbit,2933.78,3839.33
+20536,Product_0536,Beauty,Personal Care,Aster,5193.96,6275.44
+20537,Product_0537,Beauty,Skincare,Vertex,11136.65,13323.16
+20538,Product_0538,Home & Kitchen,Decor,Orbit,17014.65,18722.46
+20539,Product_0539,Home & Kitchen,Appliances,Orbit,19772.25,22126.45
+20540,Product_0540,Beauty,Haircare,Prime,10074.86,12966.11
+20541,Product_0541,Fashion,Footwear,Orbit,20091.47,25202.38
+20542,Product_0542,Electronics,Laptop,Nova,28144.65,34630.33
+20543,Product_0543,Beauty,Skincare,UrbanX,19630.02,26466.19
+20544,Product_0544,Electronics,Accessories,Vertex,4925.24,6162.31
+20545,Product_0545,Home & Kitchen,Decor,Prime,17474.13,21237.15
+20546,Product_0546,Electronics,Mobile,Nova,16348.49,18774.23
+20547,Product_0547,Beauty,Makeup,UrbanX,26146.86,35199.07
+20548,Product_0548,Fashion,Men Clothing,Aster,10639.03,13542.15
+20549,Product_0549,Beauty,Personal Care,Prime,12803.78,14439.31
+20550,Product_0550,Sports,Outdoor,Pulse,18040.04,23355.89
+20551,Product_0551,Sports,Sportswear,Zenith,15827.87,19429.05
+20552,Product_0552,Sports,Team Sports,Zenith,21626.69,29053.64
+20553,Product_0553,Fashion,Women Clothing,Aster,1403.59,1930.88
+20554,Product_0554,Beauty,Makeup,Vertex,16992.78,21753.13
+20555,Product_0555,Sports,Sportswear,Zenith,3825.82,5048.11
+20556,Product_0556,Beauty,Personal Care,UrbanX,9593.23,10715.42
+20557,Product_0557,Home & Kitchen,Furniture,Zenith,19916.48,25255.62
+20558,Product_0558,Sports,Team Sports,Pulse,4890.94,6488.33
+20559,Product_0559,Sports,Outdoor,Pulse,9403.49,11745.23
+20560,Product_0560,Fashion,Women Clothing,UrbanX,21149.59,27030.55
+20561,Product_0561,Beauty,Makeup,Zenith,19594.0,26837.6
+20562,Product_0562,Fashion,Women Clothing,Aster,2912.98,3377.4
+20563,Product_0563,Fashion,Men Clothing,Aster,17402.6,19655.78
+20564,Product_0564,Beauty,Haircare,Zenith,4588.18,5997.64
+20565,Product_0565,Home & Kitchen,Decor,Pulse,7717.69,10394.61
+20566,Product_0566,Beauty,Makeup,Vertex,13884.5,18815.54
+20567,Product_0567,Home & Kitchen,Decor,Orbit,3458.54,4470.14
+20568,Product_0568,Fashion,Men Clothing,Nova,29810.68,40243.35
+20569,Product_0569,Home & Kitchen,Cookware,Pulse,5128.01,6718.71
+20570,Product_0570,Home & Kitchen,Furniture,Zenith,23483.12,26447.0
+20571,Product_0571,Home & Kitchen,Decor,Pulse,24929.2,33121.26
+20572,Product_0572,Sports,Outdoor,Orbit,29835.03,34423.89
+20573,Product_0573,Sports,Outdoor,Pulse,12973.87,15192.18
+20574,Product_0574,Fashion,Accessories,Prime,26248.02,31980.46
+20575,Product_0575,Beauty,Skincare,Nova,28734.68,34319.84
+20576,Product_0576,Home & Kitchen,Cookware,Pulse,5352.25,6403.94
+20577,Product_0577,Sports,Fitness,Zenith,14487.2,16671.55
+20578,Product_0578,Beauty,Makeup,Pulse,1988.32,2362.44
+20579,Product_0579,Home & Kitchen,Appliances,UrbanX,18697.58,20677.63
+20580,Product_0580,Beauty,Haircare,Prime,17525.9,21764.95
+20581,Product_0581,Electronics,Audio,Orbit,6282.96,8359.96
+20582,Product_0582,Home & Kitchen,Appliances,Vertex,23977.5,32577.61
+20583,Product_0583,Beauty,Personal Care,Nova,1310.61,1764.25
+20584,Product_0584,Home & Kitchen,Furniture,Nova,24225.57,29674.8
+20585,Product_0585,Home & Kitchen,Furniture,Prime,994.03,1311.25
+20586,Product_0586,Electronics,Accessories,Vertex,19773.5,23458.63
+20587,Product_0587,Beauty,Skincare,Pulse,2547.33,2844.52
+20588,Product_0588,Fashion,Accessories,Zenith,7686.52,10013.93
+20589,Product_0589,Sports,Fitness,Vertex,21713.02,28110.52
+20590,Product_0590,Home & Kitchen,Furniture,Zenith,8556.06,11469.3
+20591,Product_0591,Home & Kitchen,Furniture,Nova,15432.98,19828.78
+20592,Product_0592,Home & Kitchen,Appliances,Pulse,27474.4,31514.99
+20593,Product_0593,Home & Kitchen,Appliances,Zenith,1679.1,2276.77
+20594,Product_0594,Sports,Sportswear,Nova,24370.18,31393.08
+20595,Product_0595,Fashion,Footwear,Aster,2145.11,2879.34
+20596,Product_0596,Electronics,Laptop,Prime,3978.49,5300.27
+20597,Product_0597,Fashion,Women Clothing,Pulse,3755.71,4466.89
+20598,Product_0598,Sports,Fitness,Vertex,29824.25,33473.72
+20599,Product_0599,Beauty,Makeup,UrbanX,5569.55,6421.42
+20600,Product_0600,Electronics,Mobile,Prime,26923.5,30365.9
+20601,Product_0601,Electronics,Laptop,Orbit,29729.78,34873.74
+20602,Product_0602,Beauty,Makeup,Zenith,11636.79,14404.71
+20603,Product_0603,Home & Kitchen,Cookware,Aster,19005.25,26076.02
+20604,Product_0604,Sports,Outdoor,Prime,23416.92,31884.61
+20605,Product_0605,Beauty,Skincare,Nova,11900.82,15656.48
+20606,Product_0606,Fashion,Footwear,Prime,5022.06,5560.59
+20607,Product_0607,Fashion,Men Clothing,Pulse,13126.13,15783.08
+20608,Product_0608,Beauty,Skincare,Zenith,23202.25,30272.08
+20609,Product_0609,Sports,Outdoor,Prime,23466.73,26721.77
+20610,Product_0610,Electronics,Audio,Pulse,7070.06,9476.19
+20611,Product_0611,Electronics,Accessories,Prime,5413.98,7440.82
+20612,Product_0612,Home & Kitchen,Decor,Zenith,27632.71,33331.44
+20613,Product_0613,Sports,Fitness,UrbanX,1511.17,1982.28
+20614,Product_0614,Fashion,Women Clothing,Aster,22095.21,25287.11
+20615,Product_0615,Fashion,Footwear,Prime,1583.36,2069.84
+20616,Product_0616,Home & Kitchen,Furniture,Prime,25169.42,27848.37
+20617,Product_0617,Fashion,Footwear,UrbanX,27181.36,31128.95
+20618,Product_0618,Home & Kitchen,Furniture,Vertex,9063.09,11899.51
+20619,Product_0619,Home & Kitchen,Decor,Prime,2403.28,3156.84
+20620,Product_0620,Beauty,Personal Care,Pulse,14524.4,18770.59
+20621,Product_0621,Electronics,Accessories,Zenith,9094.2,11305.99
+20622,Product_0622,Sports,Outdoor,Orbit,12630.66,16451.09
+20623,Product_0623,Sports,Outdoor,Pulse,20016.57,26664.88
+20624,Product_0624,Electronics,Mobile,Zenith,6452.82,8969.06
+20625,Product_0625,Sports,Sportswear,Orbit,10837.16,14809.98
+20626,Product_0626,Fashion,Men Clothing,Prime,23520.36,31478.72
+20627,Product_0627,Fashion,Women Clothing,Vertex,19384.11,25362.7
+20628,Product_0628,Sports,Team Sports,Zenith,9923.01,12624.52
+20629,Product_0629,Beauty,Personal Care,Pulse,19996.19,22719.32
+20630,Product_0630,Sports,Sportswear,Orbit,23006.33,26449.62
+20631,Product_0631,Home & Kitchen,Decor,Orbit,17856.07,24035.77
+20632,Product_0632,Home & Kitchen,Decor,Pulse,7337.01,9838.89
+20633,Product_0633,Electronics,Accessories,Prime,207.31,266.26
+20634,Product_0634,Fashion,Women Clothing,Prime,24124.9,29713.48
+20635,Product_0635,Beauty,Personal Care,Prime,24714.48,27378.94
+20636,Product_0636,Sports,Sportswear,Aster,20988.61,25147.57
+20637,Product_0637,Home & Kitchen,Cookware,Zenith,2482.11,3043.54
+20638,Product_0638,Fashion,Footwear,Nova,17639.62,21974.47
+20639,Product_0639,Fashion,Accessories,Aster,24666.42,34010.0
+20640,Product_0640,Beauty,Skincare,Vertex,11812.12,13378.56
+20641,Product_0641,Beauty,Haircare,Aster,6100.42,7660.05
+20642,Product_0642,Beauty,Skincare,Pulse,17711.29,21437.33
+20643,Product_0643,Beauty,Personal Care,Aster,24823.94,34679.77
+20644,Product_0644,Home & Kitchen,Cookware,UrbanX,1656.32,2250.21
+20645,Product_0645,Beauty,Skincare,Vertex,17989.15,22156.08
+20646,Product_0646,Fashion,Women Clothing,Orbit,19366.58,27111.44
+20647,Product_0647,Fashion,Men Clothing,Vertex,18150.54,22764.75
+20648,Product_0648,Sports,Outdoor,Vertex,19571.0,22509.3
+20649,Product_0649,Fashion,Women Clothing,Aster,19014.98,24087.46
+20650,Product_0650,Fashion,Men Clothing,Vertex,4086.04,4771.93
+20651,Product_0651,Home & Kitchen,Decor,Zenith,7201.12,9295.88
+20652,Product_0652,Fashion,Footwear,UrbanX,18646.02,25754.48
+20653,Product_0653,Electronics,Mobile,Prime,727.26,971.52
+20654,Product_0654,Fashion,Men Clothing,Aster,19115.39,22593.42
+20655,Product_0655,Sports,Fitness,Prime,20028.52,23815.06
+20656,Product_0656,Sports,Team Sports,Prime,7327.41,8212.46
+20657,Product_0657,Beauty,Makeup,Orbit,18024.36,21372.57
+20658,Product_0658,Home & Kitchen,Furniture,Aster,16115.88,18175.29
+20659,Product_0659,Sports,Team Sports,,7968.61,9959.44
+20660,Product_0660,Electronics,Audio,Orbit,13996.63,18370.63
+20661,Product_0661,Electronics,Mobile,Aster,27306.81,36191.2
+20662,Product_0662,Beauty,Haircare,Vertex,12912.76,14434.64
+20663,Product_0663,Home & Kitchen,Decor,Orbit,18969.36,22800.92
+20664,Product_0664,Home & Kitchen,Furniture,UrbanX,1253.45,1487.16
+20665,Product_0665,Fashion,Footwear,Aster,2518.44,2849.09
+20666,Product_0666,Electronics,Audio,Prime,2622.98,3170.5
+20667,Product_0667,Electronics,Mobile,Aster,23391.57,27831.2
+20668,Product_0668,Electronics,Accessories,UrbanX,10637.66,13726.3
+20669,Product_0669,Electronics,Accessories,Nova,6982.83,9531.5
+20670,Product_0670,Sports,Sportswear,Zenith,22470.27,27783.42
+20671,Product_0671,Home & Kitchen,Appliances,Prime,5264.81,6970.61
+20672,Product_0672,Fashion,Footwear,Nova,7545.48,8630.54
+20673,Product_0673,Sports,Outdoor,Nova,13041.76,17847.52
+20674,Product_0674,Home & Kitchen,Appliances,Orbit,10076.85,11545.84
+20675,Product_0675,Beauty,Personal Care,Pulse,17644.69,20426.03
+20676,Product_0676,Electronics,Accessories,UrbanX,10267.65,11622.35
+20677,Product_0677,Fashion,Accessories,Orbit,11909.96,14207.44
+20678,Product_0678,Home & Kitchen,Cookware,Orbit,25914.02,32799.97
+20679,Product_0679,Beauty,Haircare,Zenith,26559.04,37087.0
+20680,Product_0680,Electronics,Laptop,Aster,24865.79,33270.69
+20681,Product_0681,Beauty,Makeup,Nova,25971.96,31533.36
+20682,Product_0682,Beauty,Skincare,Pulse,17177.91,21863.25
+20683,Product_0683,Sports,Outdoor,,19457.75,25041.98
+20684,Product_0684,Beauty,Skincare,Aster,16803.76,22631.61
+20685,Product_0685,Sports,Fitness,Zenith,23610.52,31187.97
+20686,Product_0686,Sports,Team Sports,Prime,16619.81,21120.24
+20687,Product_0687,Beauty,Skincare,Aster,3510.09,4565.77
+20688,Product_0688,Home & Kitchen,Furniture,Orbit,24325.49,32201.48
+20689,Product_0689,Beauty,Makeup,UrbanX,22865.44,26065.3
+20690,Product_0690,Beauty,Haircare,Pulse,24644.96,28591.52
+20691,Product_0691,Home & Kitchen,Cookware,Orbit,5874.8,7675.87
+20692,Product_0692,Electronics,Mobile,UrbanX,8294.19,11239.69
+20693,Product_0693,Fashion,Accessories,Prime,9013.4,11021.39
+20694,Product_0694,Electronics,Audio,Prime,15340.8,21384.57
+20695,Product_0695,Beauty,Makeup,Prime,4189.54,4880.07
+20696,Product_0696,Electronics,Accessories,Pulse,11684.38,14313.48
+20697,Product_0697,Fashion,Women Clothing,Pulse,5628.31,6830.27
+20698,Product_0698,Electronics,Laptop,UrbanX,8089.93,11156.73
+20699,Product_0699,Fashion,Men Clothing,Orbit,21250.35,25194.7
+20700,Product_0700,Electronics,Audio,Zenith,25673.37,31866.74
+20701,Product_0701,Sports,Fitness,Pulse,882.59,1020.42
+20702,Product_0702,Beauty,Personal Care,Zenith,17063.73,21438.53
+20703,Product_0703,Fashion,Men Clothing,Pulse,1274.58,1729.89
+20704,Product_0704,Beauty,Haircare,Aster,2740.43,3264.43
+20705,Product_0705,Sports,Outdoor,Nova,21211.5,28492.08
+20706,Product_0706,Electronics,Accessories,Nova,22121.12,30381.0
+20707,Product_0707,Beauty,Haircare,Vertex,24456.62,27437.57
+20708,Product_0708,Electronics,Accessories,UrbanX,14332.4,19018.05
+20709,Product_0709,Electronics,Audio,Prime,25822.26,30382.55
+20710,Product_0710,Beauty,Personal Care,Zenith,5171.78,5960.98
+20711,Product_0711,Fashion,Accessories,Pulse,7641.55,9783.76
+20712,Product_0712,Fashion,Accessories,Aster,4208.16,5519.76
+20713,Product_0713,Beauty,Haircare,Zenith,23966.61,29201.6
+20714,Product_0714,Fashion,Footwear,UrbanX,7014.52,7798.41
+20715,Product_0715,Home & Kitchen,Cookware,Orbit,4834.24,6635.53
+20716,Product_0716,Electronics,Audio,Vertex,18768.7,24760.12
+20717,Product_0717,Beauty,Haircare,Orbit,2497.04,2950.25
+20718,Product_0718,Sports,Team Sports,Zenith,1538.03,1921.09
+20719,Product_0719,Beauty,Makeup,Nova,3380.19,3746.39
+20720,Product_0720,Beauty,Personal Care,Aster,207.18,248.99
+20721,Product_0721,Electronics,Accessories,Nova,20970.31,26354.66
+20722,Product_0722,Sports,Outdoor,Orbit,16954.61,21280.87
+20723,Product_0723,Electronics,Accessories,Aster,6454.28,7502.81
+20724,Product_0724,Fashion,Women Clothing,Orbit,7143.55,9522.53
+20725,Product_0725,Beauty,Skincare,Prime,24366.86,28988.25
+20726,Product_0726,Electronics,Audio,Orbit,15154.24,19308.37
+20727,Product_0727,Home & Kitchen,Cookware,,21016.15,24829.67
+20728,Product_0728,Beauty,Skincare,Pulse,13692.11,16807.75
+20729,Product_0729,Fashion,Footwear,Prime,7284.0,8465.86
+20730,Product_0730,Electronics,Accessories,UrbanX,29118.0,37559.38
+20731,Product_0731,Electronics,Mobile,Orbit,17056.3,20939.6
+20732,Product_0732,Home & Kitchen,Appliances,Nova,4103.26,4533.43
+20733,Product_0733,Fashion,Men Clothing,Aster,12301.48,13635.57
+20734,Product_0734,Home & Kitchen,Cookware,Aster,10014.25,12431.09
+20735,Product_0735,Beauty,Makeup,Vertex,6579.81,7599.47
+20736,Product_0736,Sports,Sportswear,Nova,28016.51,35735.41
+20737,Product_0737,Electronics,Laptop,UrbanX,26451.42,32335.74
+20738,Product_0738,Home & Kitchen,Appliances,Prime,6134.58,7952.42
+20739,Product_0739,Electronics,Laptop,UrbanX,10694.01,14818.89
+20740,Product_0740,Electronics,Audio,Vertex,22917.0,28843.81
+20741,Product_0741,Home & Kitchen,Appliances,UrbanX,6413.48,8569.78
+20742,Product_0742,Electronics,Laptop,Orbit,17828.63,23639.2
+20743,Product_0743,Fashion,Women Clothing,Prime,21053.86,28981.42
+20744,Product_0744,Fashion,Accessories,Nova,19688.38,22921.32
+20745,Product_0745,Sports,Team Sports,Zenith,21250.98,28650.53
+20746,Product_0746,Fashion,Footwear,Vertex,21259.65,29160.93
+20747,Product_0747,Home & Kitchen,Appliances,Pulse,28951.22,35257.63
+20748,Product_0748,Fashion,Accessories,Aster,10525.67,12569.17
+20749,Product_0749,Sports,Outdoor,Aster,26381.99,36555.17
+20750,Product_0750,Beauty,Makeup,Nova,849.85,1094.85
+20751,Product_0751,Beauty,Haircare,Orbit,8788.45,10670.96
+20752,Product_0752,Home & Kitchen,Decor,Zenith,1649.94,2206.87
+20753,Product_0753,Sports,Fitness,UrbanX,19605.88,23357.31
+20754,Product_0754,Fashion,Women Clothing,Pulse,3203.55,3693.44
+20755,Product_0755,Sports,Sportswear,Pulse,25402.06,32087.65
+20756,Product_0756,Electronics,Mobile,Aster,19468.43,24722.25
+20757,Product_0757,Sports,Team Sports,Vertex,1058.7,1426.84
+20758,Product_0758,Fashion,Footwear,Zenith,21500.37,26598.28
+20759,Product_0759,Home & Kitchen,Furniture,Orbit,25888.64,34804.07
+20760,Product_0760,Electronics,Mobile,Prime,19901.41,23750.28
+20761,Product_0761,Sports,Sportswear,Orbit,1109.62,1412.11
+20762,Product_0762,Beauty,Makeup,Pulse,25766.0,29954.05
+20763,Product_0763,Fashion,Footwear,UrbanX,22027.42,26777.28
+20764,Product_0764,Home & Kitchen,Cookware,Zenith,11477.85,15578.45
+20765,Product_0765,Fashion,Accessories,Orbit,9993.18,11640.02
+20766,Product_0766,Sports,Team Sports,Pulse,14498.64,19472.72
+20767,Product_0767,Home & Kitchen,Appliances,Orbit,26039.63,30853.35
+20768,Product_0768,Beauty,Haircare,Prime,7711.37,8562.3
+20769,Product_0769,Electronics,Accessories,Zenith,3208.72,3635.42
+20770,Product_0770,Sports,Team Sports,Zenith,25966.16,34373.06
+20771,Product_0771,Home & Kitchen,Cookware,UrbanX,983.44,1159.1
+20772,Product_0772,Electronics,Audio,Vertex,27347.71,35449.3
+20773,Product_0773,Home & Kitchen,Decor,Prime,9311.21,12195.45
+20774,Product_0774,Sports,Outdoor,Vertex,15345.04,18468.3
+20775,Product_0775,Home & Kitchen,Appliances,Orbit,4142.41,5146.84
+20776,Product_0776,Beauty,Skincare,Prime,27087.2,33077.0
+20777,Product_0777,Home & Kitchen,Appliances,Pulse,22545.12,31207.06
+20778,Product_0778,Sports,Fitness,Pulse,27739.84,33176.42
+20779,Product_0779,Home & Kitchen,Decor,UrbanX,20560.23,23747.0
+20780,Product_0780,Electronics,Laptop,Orbit,5703.87,6899.85
+20781,Product_0781,Electronics,Accessories,Vertex,9386.36,12210.29
+20782,Product_0782,Fashion,Footwear,Pulse,14708.09,19255.96
+20783,Product_0783,Fashion,Footwear,UrbanX,18296.29,25197.97
+20784,Product_0784,Beauty,Haircare,Zenith,27808.49,37945.42
+20785,Product_0785,Electronics,Mobile,Zenith,11641.75,13812.89
+20786,Product_0786,Fashion,Accessories,UrbanX,21151.55,26154.93
+20787,Product_0787,Home & Kitchen,Cookware,Orbit,28838.06,38186.8
+20788,Product_0788,Beauty,Makeup,Prime,4740.75,6518.35
+20789,Product_0789,Sports,Fitness,Pulse,25908.75,31120.28
+20790,Product_0790,Fashion,Accessories,Zenith,12737.04,15709.0
+20791,Product_0791,Fashion,Men Clothing,Prime,22026.17,30172.41
+20792,Product_0792,Electronics,Audio,Vertex,8947.44,10804.44
+20793,Product_0793,Beauty,Personal Care,Aster,10152.73,12631.56
+20794,Product_0794,Electronics,Mobile,Zenith,1008.57,1383.1
+20795,Product_0795,Electronics,Mobile,Zenith,29147.84,39077.72
+20796,Product_0796,Beauty,Personal Care,Nova,24440.89,28669.88
+20797,Product_0797,Home & Kitchen,Appliances,Orbit,2998.76,3590.83
+20798,Product_0798,Fashion,Accessories,Prime,29985.36,36158.97
+20799,Product_0799,Electronics,Audio,Orbit,18229.73,25044.4
+20800,Product_0800,Fashion,Men Clothing,UrbanX,25641.11,35889.35
+20801,Product_0801,Beauty,Personal Care,Nova,2186.49,2912.84
+20802,Product_0802,Home & Kitchen,Appliances,Vertex,11805.65,14701.55
+20803,Product_0803,Sports,Sportswear,Nova,20155.6,22232.68
+20804,Product_0804,Home & Kitchen,Cookware,Nova,3371.72,4414.41
+20805,Product_0805,Beauty,Personal Care,Aster,14769.3,17971.41
+20806,Product_0806,Home & Kitchen,Cookware,Aster,13391.8,17274.03
+20807,Product_0807,Sports,Fitness,Nova,6638.0,8509.97
+20808,Product_0808,Electronics,Mobile,Aster,9148.04,11382.45
+20809,Product_0809,Home & Kitchen,Appliances,Pulse,29020.13,40144.02
+20810,Product_0810,Beauty,Makeup,Aster,8801.72,9743.01
+20811,Product_0811,Home & Kitchen,Furniture,Nova,6560.1,8617.61
+20812,Product_0812,Sports,Team Sports,Prime,16179.03,19786.18
+20813,Product_0813,Beauty,Haircare,Aster,20194.55,26538.41
+20814,Product_0814,Home & Kitchen,Decor,Nova,21807.77,28406.06
+20815,Product_0815,Beauty,Skincare,Orbit,22676.57,25013.88
+20816,Product_0816,Sports,Team Sports,Prime,1297.61,1538.45
+20817,Product_0817,Electronics,Mobile,Orbit,11934.06,13804.45
+20818,Product_0818,Sports,Outdoor,Zenith,23263.95,26755.77
+20819,Product_0819,Electronics,Audio,Aster,27164.59,35817.68
+20820,Product_0820,Fashion,Footwear,Nova,18145.56,21264.15
+20821,Product_0821,Sports,Team Sports,Aster,1758.74,2185.1
+20822,Product_0822,Electronics,Audio,Prime,12020.05,14112.7
+20823,Product_0823,Fashion,Men Clothing,Pulse,2411.97,3073.02
+20824,Product_0824,Fashion,Footwear,Nova,22506.43,29622.34
+20825,Product_0825,Fashion,Women Clothing,Prime,2092.46,2509.53
+20826,Product_0826,Beauty,Makeup,Orbit,5734.79,7345.73
+20827,Product_0827,Sports,Outdoor,Orbit,12625.36,17012.12
+20828,Product_0828,Sports,Outdoor,Zenith,13986.92,15780.98
+20829,Product_0829,Sports,Fitness,Orbit,12313.15,16169.64
+20830,Product_0830,Sports,Team Sports,UrbanX,14009.22,16768.24
+20831,Product_0831,Beauty,Haircare,Vertex,21454.53,24389.4
+20832,Product_0832,Sports,Team Sports,Orbit,11204.21,14158.72
+20833,Product_0833,Electronics,Mobile,Pulse,16522.96,19296.81
+20834,Product_0834,Fashion,Men Clothing,UrbanX,9240.4,12441.35
+20835,Product_0835,Beauty,Makeup,Aster,10738.1,11950.1
+20836,Product_0836,Beauty,Haircare,Prime,18491.21,20887.59
+20837,Product_0837,Sports,Sportswear,Orbit,14816.74,18614.25
+20838,Product_0838,Fashion,Accessories,Nova,21746.48,27763.35
+20839,Product_0839,Electronics,Mobile,Pulse,16904.05,22295.87
+20840,Product_0840,Fashion,Women Clothing,Prime,24146.51,28439.23
+20841,Product_0841,Home & Kitchen,Decor,Aster,13413.56,18142.22
+20842,Product_0842,Fashion,Women Clothing,Nova,14832.8,20557.41
+20843,Product_0843,Electronics,Audio,Pulse,20165.15,25200.63
+20844,Product_0844,Electronics,Mobile,UrbanX,6793.07,9022.28
+20845,Product_0845,Electronics,Audio,Orbit,11700.7,14713.1
+20846,Product_0846,Beauty,Makeup,Prime,18820.27,21094.51
+20847,Product_0847,Beauty,Makeup,,1060.51,1270.31
+20848,Product_0848,Home & Kitchen,Furniture,Pulse,13221.75,14890.94
+20849,Product_0849,Fashion,Accessories,Zenith,18045.73,25203.82
+20850,Product_0850,Sports,Team Sports,Zenith,29027.79,33925.0
+20851,Product_0851,Home & Kitchen,Cookware,Aster,26335.09,33992.55
+20852,Product_0852,Sports,Outdoor,Aster,8566.11,10153.44
+20853,Product_0853,Sports,Sportswear,Prime,15314.86,19847.66
+20854,Product_0854,Home & Kitchen,Appliances,UrbanX,1881.15,2188.0
+20855,Product_0855,Fashion,Men Clothing,UrbanX,7374.48,9849.22
+20856,Product_0856,Sports,Team Sports,Vertex,23290.7,26394.03
+20857,Product_0857,Beauty,Personal Care,Vertex,3874.76,5302.78
+20858,Product_0858,Beauty,Personal Care,Prime,7879.18,10653.65
+20859,Product_0859,Home & Kitchen,Appliances,Nova,28332.47,36935.4
+20860,Product_0860,Sports,Team Sports,UrbanX,24750.9,27726.56
+20861,Product_0861,Home & Kitchen,Furniture,Pulse,23498.47,27318.63
+20862,Product_0862,Beauty,Personal Care,Pulse,25963.81,35253.88
+20863,Product_0863,Home & Kitchen,Decor,Pulse,22538.25,25616.8
+20864,Product_0864,Sports,Team Sports,Nova,3793.47,4350.27
+20865,Product_0865,Sports,Fitness,Orbit,15593.53,19697.76
+20866,Product_0866,Beauty,Makeup,Orbit,13438.47,15887.67
+20867,Product_0867,Electronics,Audio,Nova,9472.32,11050.62
+20868,Product_0868,Electronics,Accessories,Prime,25054.4,31887.84
+20869,Product_0869,Fashion,Women Clothing,Orbit,14031.35,17002.81
+20870,Product_0870,Beauty,Makeup,Vertex,1996.87,2280.76
+20871,Product_0871,Fashion,Men Clothing,Nova,8393.97,10580.23
+20872,Product_0872,Beauty,Skincare,Prime,7012.91,8528.43
+20873,Product_0873,Sports,Team Sports,Vertex,26646.87,35183.33
+20874,Product_0874,Beauty,Skincare,Nova,19493.66,22043.95
+20875,Product_0875,Home & Kitchen,Cookware,Nova,16899.21,21735.49
+20876,Product_0876,Fashion,Footwear,Pulse,15298.15,18831.23
+20877,Product_0877,Beauty,Skincare,Vertex,19573.37,23915.11
+20878,Product_0878,Fashion,Men Clothing,Zenith,22695.29,26546.37
+20879,Product_0879,Beauty,Makeup,Vertex,16720.66,18545.35
+20880,Product_0880,Electronics,Accessories,Aster,28160.91,38138.51
+20881,Product_0881,Fashion,Women Clothing,,29309.66,35110.72
+20882,Product_0882,Sports,Outdoor,Aster,29861.2,38948.78
+20883,Product_0883,Sports,Sportswear,Prime,20147.86,27890.2
+20884,Product_0884,Beauty,Makeup,Prime,27992.09,35535.88
+20885,Product_0885,Sports,Sportswear,Orbit,12253.49,14938.77
+20886,Product_0886,Sports,Outdoor,UrbanX,25815.85,30475.15
+20887,Product_0887,Fashion,Women Clothing,Aster,27293.39,37670.7
+20888,Product_0888,Beauty,Haircare,Vertex,27143.39,35411.89
+20889,Product_0889,Fashion,Women Clothing,Orbit,24959.22,32436.61
+20890,Product_0890,Beauty,Makeup,Orbit,12316.66,15122.98
+20891,Product_0891,Sports,Outdoor,Aster,4935.44,6680.19
+20892,Product_0892,Beauty,Haircare,Zenith,10151.9,13340.63
+20893,Product_0893,Beauty,Makeup,Pulse,23065.2,27331.22
+20894,Product_0894,Home & Kitchen,Decor,Orbit,7139.99,9138.28
+20895,Product_0895,Beauty,Makeup,Orbit,14452.51,17762.98
+20896,Product_0896,Home & Kitchen,Furniture,Prime,17048.91,18787.51
+20897,Product_0897,Fashion,Men Clothing,Zenith,18194.99,24422.9
+20898,Product_0898,Home & Kitchen,Appliances,Prime,28084.62,31927.98
+20899,Product_0899,Fashion,Footwear,Zenith,19912.49,24950.08
+20900,Product_0900,Beauty,Personal Care,Orbit,23631.7,28378.55
+20901,Product_0901,Fashion,Women Clothing,Prime,17539.97,21094.04
+20902,Product_0902,Sports,Fitness,Vertex,25040.69,31130.82
+20903,Product_0903,Beauty,Makeup,Zenith,8057.18,11272.86
+20904,Product_0904,Home & Kitchen,Appliances,Pulse,6454.35,7890.53
+20905,Product_0905,Electronics,Audio,Nova,27804.34,32105.64
+20906,Product_0906,Beauty,Skincare,Prime,20865.73,26793.31
+20907,Product_0907,Sports,Team Sports,Orbit,20211.46,23665.32
+20908,Product_0908,Fashion,Footwear,Aster,14125.4,15985.22
+20909,Product_0909,Home & Kitchen,Cookware,Nova,11425.58,12740.12
+20910,Product_0910,Home & Kitchen,Appliances,Aster,16759.6,18550.6
+20911,Product_0911,Sports,Fitness,Orbit,3792.88,4662.77
+20912,Product_0912,Sports,Sportswear,Prime,13750.43,16885.77
+20913,Product_0913,Beauty,Skincare,Orbit,13769.96,15913.44
+20914,Product_0914,Electronics,Accessories,Vertex,16242.43,21686.99
+20915,Product_0915,Electronics,Mobile,Pulse,19113.63,21766.24
+20916,Product_0916,Fashion,Women Clothing,Pulse,28728.09,39489.49
+20917,Product_0917,Home & Kitchen,Appliances,Nova,19634.64,25059.16
+20918,Product_0918,Beauty,Personal Care,Nova,26535.01,29408.35
+20919,Product_0919,Home & Kitchen,Appliances,Prime,16777.86,23302.63
+20920,Product_0920,Beauty,Makeup,Pulse,18882.45,22515.1
+20921,Product_0921,Sports,Fitness,Pulse,2281.14,2817.19
+20922,Product_0922,Fashion,Women Clothing,Zenith,4171.26,4944.11
+20923,Product_0923,Sports,Fitness,Prime,17474.18,23040.17
+20924,Product_0924,Home & Kitchen,Appliances,Prime,11992.24,14938.78
+20925,Product_0925,Fashion,Men Clothing,,24004.55,27358.27
+20926,Product_0926,Beauty,Personal Care,UrbanX,16386.7,18537.64
+20927,Product_0927,Beauty,Haircare,Vertex,26492.27,34906.55
+20928,Product_0928,Fashion,Footwear,Zenith,29175.48,34168.12
+20929,Product_0929,Sports,Fitness,Orbit,4599.53,5249.62
+20930,Product_0930,Fashion,Accessories,Vertex,11965.87,14955.28
+20931,Product_0931,Sports,Outdoor,Pulse,20016.43,26838.62
+20932,Product_0932,Fashion,Men Clothing,Prime,9303.56,11012.02
+20933,Product_0933,Sports,Fitness,UrbanX,8157.56,9649.82
+20934,Product_0934,Electronics,Audio,Orbit,24449.41,33010.72
+20935,Product_0935,Fashion,Accessories,Orbit,29415.28,33661.38
+20936,Product_0936,Sports,Outdoor,Pulse,23259.34,29888.68
+20937,Product_0937,Home & Kitchen,Cookware,Prime,15805.56,21914.47
+20938,Product_0938,Home & Kitchen,Furniture,Prime,13386.83,18104.23
+20939,Product_0939,Fashion,Accessories,Vertex,16281.5,18211.58
+20940,Product_0940,Fashion,Footwear,Pulse,13992.62,16734.8
+20941,Product_0941,Beauty,Makeup,UrbanX,15186.06,17353.3
+20942,Product_0942,Sports,Team Sports,Vertex,6262.9,8672.69
+20943,Product_0943,Fashion,Women Clothing,Prime,27131.51,37869.69
+20944,Product_0944,Home & Kitchen,Furniture,Aster,22685.14,26552.91
+20945,Product_0945,Home & Kitchen,Cookware,Nova,20493.13,26659.71
+20946,Product_0946,Home & Kitchen,Decor,Pulse,28507.76,38556.45
+20947,Product_0947,Sports,Sportswear,Zenith,8674.95,10150.59
+20948,Product_0948,Electronics,Accessories,Prime,2618.55,3027.84
+20949,Product_0949,Fashion,Women Clothing,Zenith,24818.93,27384.3
+20950,Product_0950,Electronics,Audio,Orbit,29952.83,36649.95
+20951,Product_0951,Sports,Sportswear,UrbanX,17437.29,23886.14
+20952,Product_0952,Fashion,Men Clothing,Pulse,1952.52,2676.7
+20953,Product_0953,Beauty,Haircare,Aster,23457.95,26702.72
+20954,Product_0954,Fashion,Footwear,Zenith,2397.72,2784.49
+20955,Product_0955,Fashion,Accessories,Pulse,16292.42,19916.09
+20956,Product_0956,Fashion,Footwear,Zenith,8470.47,11301.19
+20957,Product_0957,Fashion,Men Clothing,UrbanX,27467.8,35256.44
+20958,Product_0958,Fashion,Accessories,Prime,13649.67,17118.8
+20959,Product_0959,Sports,Sportswear,Prime,26974.21,34461.7
+20960,Product_0960,Fashion,Footwear,Nova,9112.62,10286.87
+20961,Product_0961,Sports,Outdoor,UrbanX,11743.4,14600.56
+20962,Product_0962,Fashion,Footwear,Aster,28424.15,39726.13
+20963,Product_0963,Fashion,Men Clothing,Nova,6199.17,6983.57
+20964,Product_0964,Sports,Team Sports,Pulse,17439.33,21899.86
+20965,Product_0965,Fashion,Footwear,UrbanX,11777.61,13999.98
+20966,Product_0966,Home & Kitchen,Decor,Prime,23270.17,29366.35
+20967,Product_0967,Fashion,Women Clothing,Nova,4053.03,5156.04
+20968,Product_0968,Beauty,Haircare,Prime,13229.01,16843.73
+20969,Product_0969,Sports,Outdoor,Vertex,21028.19,28507.13
+20970,Product_0970,Fashion,Women Clothing,Vertex,12329.08,15003.56
+20971,Product_0971,Fashion,Footwear,Nova,1944.25,2439.85
+20972,Product_0972,Sports,Sportswear,Nova,21212.35,23403.13
+20973,Product_0973,Electronics,Accessories,UrbanX,15195.31,20314.08
+20974,Product_0974,Home & Kitchen,Furniture,Pulse,537.0,632.5
+20975,Product_0975,Home & Kitchen,Appliances,Aster,18457.15,24824.25
+20976,Product_0976,Fashion,Women Clothing,Aster,27612.45,32574.18
+20977,Product_0977,Sports,Outdoor,Vertex,3508.57,3870.78
+20978,Product_0978,Beauty,Personal Care,Orbit,17802.0,20409.09
+20979,Product_0979,Fashion,Accessories,Vertex,21914.33,30585.94
+20980,Product_0980,Home & Kitchen,Furniture,Vertex,2309.06,2761.5
+20981,Product_0981,Fashion,Footwear,Prime,873.94,989.87
+20982,Product_0982,Sports,Outdoor,Aster,14033.04,15936.31
+20983,Product_0983,Beauty,Personal Care,Nova,23777.36,28368.84
+20984,Product_0984,Electronics,Accessories,Vertex,4989.44,5544.73
+20985,Product_0985,Beauty,Makeup,Zenith,25131.79,31501.36
+20986,Product_0986,Fashion,Women Clothing,Orbit,19766.0,23010.04
+20987,Product_0987,Home & Kitchen,Furniture,UrbanX,10098.76,12681.95
+20988,Product_0988,Sports,Fitness,Pulse,15571.61,17786.35
+20989,Product_0989,Fashion,Women Clothing,Nova,28974.13,35607.96
+20990,Product_0990,Electronics,Audio,Pulse,6649.82,8507.61
+20991,Product_0991,Sports,Sportswear,Nova,15086.15,16875.37
+20992,Product_0992,Sports,Fitness,Nova,18809.7,22940.78
+20993,Product_0993,Sports,Team Sports,Aster,4312.84,5135.55
+20994,Product_0994,Fashion,Footwear,Orbit,1496.96,1754.6
+20995,Product_0995,Electronics,Mobile,Vertex,601.11,770.24
+20996,Product_0996,Fashion,Women Clothing,UrbanX,9875.85,12607.14
+20997,Product_0997,Sports,Fitness,Orbit,2403.63,3098.78
+20998,Product_0998,Sports,Team Sports,Pulse,24152.34,27718.79
+20999,Product_0999,Home & Kitchen,Furniture,Prime,29920.12,35476.67
+21000,Product_1000,Beauty,Personal Care,UrbanX,2026.85,2357.03
